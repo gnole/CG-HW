@@ -1,6 +1,6 @@
 # Компьютерная графика
 ## Лабораторные работы 
-Лабораторные работы написаны на С++ с использованием библиотеки [SFML](https://www.sfml-dev.org/). (кроме 4 и 7 - [OpenCV](https://github.com/opencv/opencv))
+Лабораторные работы написаны на С++ с использованием библиотеки [SFML](https://www.sfml-dev.org/). (кроме 4, 7, 8 - [OpenCV](https://github.com/opencv/opencv))
 * [Лабораторная работа 1 и 2](https://github.com/gnole/CG-HW2) Алгоритм Брезенхэма для прямой и окружности
 * [Лабораторная работа 3](https://github.com/gnole/CG-HW3) Алгоритм Кируса-Бека
 * [Лабораторная работа 4](https://github.com/gnole/CG-HW4) Фильтр Собеля
